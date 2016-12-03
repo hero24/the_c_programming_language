@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <limits.h>
 #define ASTERIX '*' 
+/*
+   "The problem is not the problem. The problem is your attitude about the problem. Do you understand" 
+   ~  Jack Sparrow.
+ */
 int main()
 {
     int char_apperance[UCHAR_MAX+1];

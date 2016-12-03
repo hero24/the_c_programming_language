@@ -1,5 +1,9 @@
 #include <stdio.h>
 #define ASTERIX '*'
+/*
+  "Object-oriented programming is an exceptionally bad idea which could only have originated in California." 
+  ~Edsger Dijkstra
+ */
 int main()
 {
     char c;

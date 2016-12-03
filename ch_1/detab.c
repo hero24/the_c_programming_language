@@ -1,5 +1,9 @@
 #include <stdio.h>
 #define SPACES 4
+/*
+  "Not all treasure is silver and gold mate"
+   ~ Jack Sparrow
+ */
 int main()
 {
     int c;
