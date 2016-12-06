@@ -1,4 +1,3 @@
-#include <stdio.h>
 /*
  * Do not fear mistakes. You will know failure. Continue to reach out. 
  * ~ Benjamin Franklin
