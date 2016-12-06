@@ -7,6 +7,7 @@
  */
 int main()
 {
+    // Replace all SPECES number of spaces by a tab
     int c, space_count = CLEAR;
     while((c = getchar()) != EOF){
          if(c == ' ' && space_count == SPACES){

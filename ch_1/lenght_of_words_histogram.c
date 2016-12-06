@@ -6,6 +6,7 @@
  */
 int main()
 {
+    // historgam of length of word in the input.
     char c;
     int word_length = 0;
     while((c = getchar()) != EOF){

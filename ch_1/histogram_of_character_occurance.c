@@ -7,6 +7,7 @@
  */
 int main()
 {
+    // Output a histogram of characters occurance in the input
     int char_apperance[UCHAR_MAX+1];
     int i;
     int c;

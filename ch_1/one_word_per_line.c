@@ -6,6 +6,7 @@
 */
 int main()
 {
+    // output one word per line from input.
     char c;
     while((c = getchar()) != EOF){
         putchar(c);

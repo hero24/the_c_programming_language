@@ -6,6 +6,7 @@
  */
 int main()
 {
+    // Remove tabs from input, replace by SPACES amount of spaces.
     int c;
     while ((c = getchar()) != EOF){
         if(c == '\t'){
@@ -18,4 +19,5 @@ int main()
             putchar(c);
         }
     }
+    return 0;
 }
