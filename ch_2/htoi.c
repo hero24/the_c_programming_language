@@ -1,4 +1,3 @@
-#include <stdio.h>
 /*
  * "A countryman between two lawyers is like a fish between two cats."
  *  ~ Benjamin Franklin
