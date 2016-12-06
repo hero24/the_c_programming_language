@@ -30,8 +30,7 @@ int htoi(char s[])
                case UPPER:
                     value = 16 * n + ((s[i] - 'A')+10);
                     break;
-          }
-          
+          }   
     }
     return n;
 }
