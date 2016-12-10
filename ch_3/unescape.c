@@ -1,3 +1,9 @@
+/*
+ * An algorithm must be seen to be believed. 
+ * ~ Donald Knuth
+ */
+
+/* unescape escaped string */
 void unescape(char s[], char t[])
 {
      int i,k;
