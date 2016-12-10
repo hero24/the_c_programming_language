@@ -1,3 +1,9 @@
+/*
+ * Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
+ * ~ Winston Churchill
+ */
+
+/* escapes special characters in s */
 void escape(char s[], char t[])
 {
      int i,k;
