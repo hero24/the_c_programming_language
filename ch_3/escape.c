@@ -3,7 +3,7 @@
  * ~ Winston Churchill
  */
 
-/* escapes special characters in s */
+/* escapes special characters in string s */
 void escape(char s[], char t[])
 {
      int i,k;
