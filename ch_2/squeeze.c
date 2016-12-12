@@ -3,7 +3,6 @@
  * ~ Benjamin Franklin
  */
 
-
 /* squeeze: delete each character in s1 that matches character in s2 */
 void squeeze(char s1[], char s2[])
 {
