@@ -23,5 +23,5 @@ void itob(int n,char s[],int b)
         char temp = s[--i];
         s[i] = s[j];
         s[j++] = temp;
-    }\
+    }
 }
