@@ -1,3 +1,8 @@
+/*
+ * Even Castles made of sand, fall into the sea, eventually. 
+ * ~ Jimi Hendrix
+ */
+
 #include <stdio.h>
 /* 
   get line from input to s, return length
