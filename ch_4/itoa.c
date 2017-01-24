@@ -5,7 +5,6 @@
 
 /* converts integer a into string s */
 
-#include <stdio.h>
 int itoa(int n,char s[],int index)
 {
     if (n < 0){
